@@ -1,59 +1,55 @@
-import React, { Fragment, useEffect } from 'react'
-import '../public/assets/scss/landing.scss'
+import React, { useEffect } from 'react'
 import Head from 'next/head'
+
 // import Custom Components
-import Header from '../landing/header'
-import GiftSection from '../landing/git-section'
-import DemoSection from '../landing/demo'
-import PortfolioSection from '../landing/portfolio'
-import WhatinsideSection from '../landing/whatinside'
-import BlogSection from '../landing/blog'
-import ElementSection from '../landing/elements'
-import FeaturesSection from '../landing/features'
-import TestimonialSection from '../landing/testimonial'
-import RatSection from '../landing/rat'
-import FooterSection from '../landing/footer'
+import Header from './../containers/common/header'
+import BannerSection from './layouts/sections/resume/banner'
+import AboutSection from './layouts/sections/resume/about'
+import ServiceSection from './layouts/sections/resume/services'
+import Section from './layouts/sections/resume/section';
+import CounterSection from './layouts/sections/resume/counter'
+import ScheduleSection from './layouts/sections/resume/schedule'
+import PricingSection from './layouts/sections/resume/pricing'
+import SubscribeSection from './layouts/sections/resume/subscribe'
+import FooterSection from './layouts/sections/resume/footer'
 
-const Home = () => {
-  
-  useEffect(() => {
-    document.body.style.setProperty('--primary', '#10266b')
-    document.body.style.setProperty('--secondary', '#464545')
-    document.body.style.setProperty('--light', '#1F357D')
-    document.body.style.setProperty('--dark', '#04185B')
-  })
+const Resume = () => {
 
-  return (
-    <Fragment>
-      <div className="landing-page">
-      <Head>
-        <title>Unice</title>
-      </Head>
+    useEffect(() => {
+        document.body.style.setProperty('--primary', '#1f232c')
+        document.body.style.setProperty('--secondary', '#676767')
+        document.body.style.setProperty('--light', '#000')
+        document.body.style.setProperty('--dark', '#000')
+    })
 
-      <Header />
+    return (
+        <div>
+            <Head>
+                <title>Resume Layout </title>
+            </Head>
 
-      <GiftSection />
+            <Header className="dark" />
 
-      <DemoSection />
+            <BannerSection />
 
-      <PortfolioSection />
+            <AboutSection />
 
-      <WhatinsideSection />
+            <ServiceSection />
 
-      <BlogSection />
+            <Section />
 
-      <ElementSection />
+            <CounterSection />
 
-      <FeaturesSection />
+            <ScheduleSection />
 
-      <TestimonialSection />
+            <PricingSection />
 
-      <RatSection />
+            <SubscribeSection />
 
-      <FooterSection />
-      </div>
-    </Fragment>
-  )
+            <FooterSection />
+
+        </div>
+    )
 }
 
-export default Home
+export default Resume;
