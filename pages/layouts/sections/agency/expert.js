@@ -1,7 +1,7 @@
 import React from 'react'
 import Slider from "react-slick";
 import {Container,Row,Col} from 'reactstrap'
-import {ExpertData} from '../../../../database/layouts/agency/database';
+import {ExpertData} from '../../../../database/layouts/agency/rektDB';
 
 var settings = {
     dots: false,
@@ -37,14 +37,15 @@ const Expert = () => (
                 <Col lg="3" md="4">
                     <div className="format-container">
                         <h6 className="borders-before">
-                            <span>Meet our Expert</span>
+                            <span>Meet our Team</span>
                         </h6>
                         <div className="format-head-text">
-                            <h2>We Will Ready For Your Services</h2>
+                            <h2 id="exec1" >Our Current Executive Team</h2>
                         </div>
                         <div className="format-sub-text">
                             <p className="about-para">
-                                Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor incididunt.
+                                We are looking to expand the Rekt Redemption Crew. Contact Us to Join the 
+                                Team.
                             </p>
                         </div>
                         <a className=" btn btn-default btn-gradient" href="#">view more</a>

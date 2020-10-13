@@ -16855,3 +16855,77 @@ footer {
   margin-top: 16px;
   margin-bottom: 16px;
 }
+
+.green-link {
+  font-family: sans-serif;
+  color: #00827E;
+  }
+  #nav5 {
+    padding-top: 24px;
+  }
+
+
+.countdown-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.countdown-item {
+  color: #fff;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 40px;
+  margin: 14px;
+  padding-top: 14px;
+  position: relative;
+  width: 160px;
+  height: 160px;
+}
+
+.countdown-item span {
+  color: #f5f7fa;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.countdown-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 160px;
+  height: 160px;
+}
+
+#sale-count {
+  font-family: Poppins;
+  font-size: 12px;
+}
+#sale-title {
+  font-size: 48px;
+  font-family: Avenir;
+}
+
+.time-digits {
+  font-family: Avenir;
+
+}
+
+#faq1 {
+  color: #00827E;
+}
+
+#exec1 {
+  color: #00827E;
+
+}
+
+#exec2 {
+  color: #00827E;
+
+}

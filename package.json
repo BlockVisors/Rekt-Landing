@@ -17,6 +17,7 @@
     "fslightbox-react": "^1.4.9",
     "graphql": "^14.5.8",
     "graphql-react": "^11.0.2",
+    "moment": "^2.29.1",
     "next": "9.5.3",
     "next-images": "^1.2.0",
     "next-on-netlify": "^2.5.1",

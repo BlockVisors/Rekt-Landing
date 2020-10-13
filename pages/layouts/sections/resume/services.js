@@ -7,10 +7,10 @@ const Services = () => (
             <Row>
                 <Col md="8" className="offset-md-2">
                     <div className="title title2">
-                        <h6 className="font-primary borders main-text text-uppercase"><span>details</span></h6>
+                        <h6 className="font-primary borders main-text text-uppercase"><span>Rekt Redemption Ecosytem</span></h6>
                         <div className="sub-title">
                             <div>
-                                <h2 className="title-text">services & experience</h2>
+                                <h2 className="title-text">the parts, pieces & bits</h2>
                             </div>
                         </div>
                     </div>
