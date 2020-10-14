@@ -67,24 +67,24 @@ const Basic = ({ className, title, subTitle, fluid }) => {
                                     </NavItem>
                                     <NavItem>
                                         <NavLink className={activeTab == '2' ? 'active' : ''} onClick={() => setActiveTab('2')}>
-                                            Fashion
+                                            Defi
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
                                         <NavLink className={activeTab == '3' ? 'active' : ''} onClick={() => setActiveTab('3')}>
-                                            Bags
+                                            Staking
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
                                         <NavLink className={activeTab == '4' ? 'active' : ''} onClick={() => setActiveTab('4')}>
-                                            Shoes
+                                            Memes
                                         </NavLink>
                                     </NavItem>
-                                    <NavItem>
+                                    {/* <NavItem>
                                         <NavLink className={activeTab == '5' ? 'active' : ''} onClick={() => setActiveTab('5')}>
                                             Watch
                                         </NavLink>
-                                    </NavItem>
+                                    </NavItem> */}
                                 </Nav>
                             </Col>
                         </Row>
