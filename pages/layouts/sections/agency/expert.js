@@ -31,7 +31,7 @@ var settings = {
 };
 
 const Expert = () => (
-    <section className="agency format speaker expert-bg">
+    <section className="agency format speaker expert-bg" id="team">
         <Container>
             <Row>
                 <Col lg="3" md="4">

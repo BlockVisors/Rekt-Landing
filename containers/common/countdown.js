@@ -42,7 +42,7 @@ const CountdownComponent = (props) => {
                     <li>
                         <div className="event-counter">
                              <h2>
-                                <span id="minutes" className="time digits">{minutes}</span><span id="sale-count" 
+                                <span id="minutes" className="time-digits">{minutes}</span><span id="sale-count" 
                                     className="title">minutes</span>
                             </h2>
                             <div className="set-border-left"></div>
@@ -52,7 +52,7 @@ const CountdownComponent = (props) => {
                     <li>
                         <div className="event-counter">
                             <h2>
-                                <span id="seconds" className="time digits">{seconds}</span><span id="sale-count" 
+                                <span id="seconds" className="time-digits">{seconds}</span><span id="sale-count" 
                                     className="title">seconds</span>
                             </h2>
                             <div className="set-border-left"></div>

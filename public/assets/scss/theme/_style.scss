@@ -139,6 +139,12 @@ h1 {
     &.bold-text {
       font-weight: 600;
     }
+    &.bold-text2 {
+      font-size: calc(18px + (40 - 18) * ((100vw - 300px) / (1920 - 300)));
+
+      font-weight: 600;
+
+    }
     &.theme-color {
       color: $primary;
     }
@@ -16928,4 +16934,8 @@ footer {
 #exec2 {
   color: #00827E;
 
+}
+
+#top {
+  margin-top: 200px;
 }

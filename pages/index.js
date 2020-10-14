@@ -13,9 +13,12 @@ import CountDownSection from './layouts/sections/event/banner'
 import FAQ from './layouts/sections/modern-sass/faq'
 
 
+import RektR from './layouts/sections/resume/RektR'
 
 import BannerSection from './layouts/sections/resume/banner'
 import AboutSection from './layouts/sections/resume/about'
+import About2 from './layouts/sections/resume/about2'
+
 import ServiceSection from './layouts/sections/resume/services'
 import Section from './layouts/sections/resume/section'
 import CounterSection from './layouts/sections/resume/counter'
@@ -46,18 +49,23 @@ const Resume = () => {
             <BannerSection />
             {/* <Countdown /> */}
             <CountDownSection />
-            <AboutSection />
 
+            <AboutSection />
+            <About2 />
+          
             <ServiceSection />
+
+            <RektR />
 
             <Section />
 
             <CounterSection />
             <Team />
             <FAQ />
-            {/* <SubscribeSection /> */}
+            <SubscribeSection />
 
-            <FooterSection />
+            {/* <FooterSection /> */}
+            <Footer2 />
 
         </div>
     )

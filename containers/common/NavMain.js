@@ -53,10 +53,13 @@ export default class NavMain extends React.Component {
               <NavLink href="#faq" className="green-link">FAQ</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#sale" className="green-link">REKTR Token</NavLink>
+              <NavLink href="#sale" className="green-link">REKTR Sale</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#cryptoMoo" className="green-link">Team</NavLink>
+              <NavLink href="#rektr" className="green-link">REKTR Token</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="#team" className="green-link">Team</NavLink>
             </NavItem>
         
             <NavItem>
