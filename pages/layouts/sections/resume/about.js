@@ -12,8 +12,12 @@ const About = () => (
                         {/* <h6 className="font-primary borders main-text text-uppercase"><span>Rekt Redemption Sale Info</span></h6> */}
                         <div className="sub-title">
                             <div>
-                                <h2 className="title-text">The Details</h2>
+                                <h2 className="title-text" id="det-title">The Details</h2>
                             </div>
+                            <h1><span className="bold-text2">Sale Start Date: October 18, 2020 16:00 UTC</span></h1>
+                         <h1><span className="bold-text2">Sale End Date: October 19, 2020 16:00 UTC</span></h1>
+
+
                         </div>
                     </Col>
                 </Row>

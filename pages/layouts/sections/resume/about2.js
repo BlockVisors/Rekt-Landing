@@ -14,7 +14,10 @@ const About2 = () => (
                                         <h5 className="text-hash text-uppercase"># sale</h5>
                                     </div>
                                     <div className="header-text">
-                                        <h1><span className="bold-text">Presale-Info</span><br /><span className="bold-text2">Sale Date: October 16, 2020 16:00 UTC</span></h1>
+                                        <h1><span className="bold-text">Presale-Info</span><br /></h1>
+                                        <h1><span className="bold-text2">Sale Lasts 24 or Hardcap Reached</span></h1>
+
+            
                                     </div>
                                     <div className="header-sub-text">
                                         <h4 className="font-secondary">Get In <span className="typed-resume"><Typed
@@ -27,10 +30,22 @@ const About2 = () => (
                                     </div>
                                     <div className="header-sub-text">
                                         <p className="font-secondary font-large">8000 REKTR For Sale</p>
-                                        <p className="font-secondary font-large">Liquidity added to Uniswap 1 hour after sale</p>
                                         <p className="font-secondary font-large">All Unsold tokens burned</p>
-                                        <p className="font-secondary font-large">Presale Price: </p>
-                                        <p className="font-secondary font-large">Uniswap Listing Price: </p>
+                                        <p className="font-secondary font-large">Presale Price: 10 REKTR = 1 ETH</p>
+                                        <p className="font-secondary font-large">Uniswap Listing Price: 5 REKTR = 1 ETH</p>
+                                        <p className="font-secondary font-large">Hardcap 800 ETH -- Min: .2 ETH  Max 5 ETH</p>
+
+                                        {/* <div>
+                                        <p className="font-secondary font-large"><strong>Sale Proceeds: <br></br>50% to liquidity/40% development/
+                                            10% donation to Rekt project token holders</strong></p>
+                                        </div> */}
+                                    </div>
+
+                                    <div className="header-sub-text">
+                                        <p className="font-secondary font-large">All Tokens distributed 1 hour after sale (Private Sale/Pre-Sale/Bonus)</p>
+                                        <p className="font-secondary font-large">Liquidity added to Uniswap 2 hours after sale</p>
+                                        <p className="font-secondary font-large">First 60 Buyers get 50% bonus!</p>
+
                                         {/* <div>
                                         <p className="font-secondary font-large"><strong>Sale Proceeds: <br></br>50% to liquidity/40% development/
                                             10% donation to Rekt project token holders</strong></p>
@@ -61,7 +76,7 @@ const About2 = () => (
                                         <h5 className="text-hash text-uppercase"># rektr Token</h5>
                                     </div>
                                     <div className="header-text">
-                                        <h1><span className="bold-text">Token Supply</span><br /><span className="bold-text2">Total Supply: 30,000 REKTR</span> </h1>
+                                        <h1><span className="bold-text">Token Supply</span><br /><span className="bold-text2">Total Supply: 33,000 REKTR</span> </h1>
                                     </div>
                                     <div className="header-sub-text">
                                         <h4 className="font-secondary">Unsold Tokens <span className="typed-resume"><Typed
@@ -78,8 +93,14 @@ const About2 = () => (
                                         <p className="font-secondary font-large">12000 REKTR - Staking rewards/community voted</p>
                                         <p className="font-secondary font-large">2000 REKTR - Uniswap liquidity—locked</p>
                                         <p className="font-secondary font-large">3000 REKTR - Team & marketing</p>
+                                        <p className="font-secondary font-large">3000 REKTR - Bonus Tokens- Sale/liquidity</p>
                                         <p className="font-secondary font-large">3000 REKTR - Rugged projects/Redemption Pool</p>
                                     </div>
+                                    <div className="header-sub-text">
+                                        <p className="font-secondary font-large"><span>Founders Each will hold 2% of REKTR</span></p>
+                                        <p className="font-secondary font-large"><span>The rest will be given away to new team members</span>
+                                        </p>
+                                     </div>
                                     <div className="link-horizontal">
                                         <ul>
                                             <li><a className="btn btn-default primary-btn back-white">etherscan</a></li>

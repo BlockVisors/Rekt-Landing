@@ -6,52 +6,72 @@ const Faq = () => {
     const DummyContent1 = () => (
         <div className="collapse show" id="collapseicon" aria-labelledby="collapseicon" data-parent="#accordionoc">
             <div className="card-body">
-                MOO Finance is a DeFi staking platform where you can stake your MOO Lp or sLP tokens for 
-                for more MOO token. In addition, you may use the rewards to stake tthat MOO for Crypto MOO NFTs tokens.
+            It’s a redemption project that will donate tokens to those scammed on choice projects. 
+            It is also a governance token where you can help decide the future of the platform
+            Your ticket to redemption…
+            A small percentage goes to those Rekt on select projects
             </div>
         </div>
     );
     const DummyContent2 = () => (
         <div className="collapse show" id="collapseicon1" aria-labelledby="collapseicon1" data-parent="#accordionoc">
             <div className="card-body">
-               You may get MOO buy particpating in the Pre-Sale or by purchasing on Uniswap after listing.
+            1 )Stake token on site  2) Provide liquidity and stake LP to Earn more REKTR 3) Stake stable coin DAI, USDT, USDC on our portal
             </div>
         </div>
     );
     const DummyContent3 = () => (
         <div className="collapse show" id="collapseicon2" data-parent="#accordionoc">
             <div className="card-body">
-                MOO will be sold at the price of 280 MOO = 1 ETH. After that it will sell on Uniswap at 180 MOO = 1 ETh. After that point..
-                the open market will determine it's price.
+                REKTR will be sold at the price of 10 REKTR = 1 ETH. 
+                It will list on Uniswap at 5 REKTR = 1 ETH. 
             </div>
         </div>
     );
     const DummyContent4 = () => (
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
-                The Pre-Sale will be held on October 13, 2020 1600 UTC time
+                The Pre-Sale will be held on October 18, 2020 1600 UTC time
             </div>
         </div>
     );
     const DummyContent5 = () => (
         <div className="collapse show" id="collapseicon1" aria-labelledby="collapseicon1" data-parent="#accordionoc">
             <div className="card-body">
-                No. we will be here. Grow the team and community as fast we can.
+                No. The Founders and Team will be transparent. You can follow us..Add us on LinkedIn. We will only add members who wish to be transparent.
             </div>
         </div>
     );
     const DummyContent6 = () => (
         <div className="collapse show" id="collapseicon2" data-parent="#accordionoc">
             <div className="card-body">
-                By going to the stake portal at: stake.moofinance.org
+                By going to the stake portal at: app.rektredemption.com 
+                <br />
+                Connect wallet and follow instructions
             </div>
         </div>
     );
     const DummyContent7 = () => (
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
-                CryptoMoo are unique non-fungible token collectibles. You may stake your reward from your stake of MOO 
-                or LP liquidity tokens to mint a CryptoMoo collectible.
+                We have a shortlist of projects that we are aware of and we will ask that you vote on Telegram
+                to add and finalize the list.
+            </div>
+            </div>
+    );
+    const DummyContent8 = () => (
+        <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
+            <div className="card-body">
+                We will simply verify the holders by address and distribute. 
+                The process mmay be different for rekted projects tthat didn't distribute Token
+            </div>
+            </div>
+    );
+
+    const DummyContent9 = () => (
+        <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
+            <div className="card-body">
+                Staking begins with a week after the sale launch...maybe sooner.
             </div>
             </div>
     );
@@ -66,26 +86,32 @@ const Faq = () => {
                                 <h6>FAQ about Rekt Redemption and REKTR Token.
                                 </h6>
                                 <Accordion atomic={true}>
-                                    <AccordionItem className="card-header bg-primary" title="What is MOO Finance?">
+                                    <AccordionItem className="card-header bg-primary" title="What is Rekt Redemption?">
                                         <DummyContent1 className="active" />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="How do I get MOO Token?">
+                                    <AccordionItem className="card-header bg-primary" title="What can I do on Rekt platform?">
                                         <DummyContent2 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="What is value of MOO?">
+                                    <AccordionItem className="card-header bg-primary" title="What is value of REKTR?">
                                         <DummyContent3 />
                                     </AccordionItem>
                                     <AccordionItem className="card-header bg-primary" title="When is the Pre-Sale?">
                                         <DummyContent4 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="Is this a scam?">
+                                    <AccordionItem className="card-header bg-primary" title="Are we getting scammed or rugged?">
                                         <DummyContent5 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="How do i stake MOO?">
+                                    <AccordionItem className="card-header bg-primary" title="How do i stake REKTR?">
                                         <DummyContent6 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="What are CryptoMOO and how do i get them?">
+                                    <AccordionItem className="card-header bg-primary" title="What Rekt Projects do you honor?">
                                         <DummyContent7 />
+                                    </AccordionItem>
+                                    <AccordionItem className="card-header bg-primary" title="How will you verify who has been Rekt?">
+                                        <DummyContent8 />
+                                    </AccordionItem>
+                                    <AccordionItem className="card-header bg-primary" title="When does staking begin?">
+                                        <DummyContent9 />
                                     </AccordionItem>
                                 </Accordion>
                                 <h6 className="link">For more questions or to request projects? Reach out to us: <a>info@rektredemption.com</a></h6>

@@ -27,7 +27,9 @@ const RektR = () => (
                                             </Typed></span></h4>
                                     </div>
                                     <div className="header-sub-text">
-                                        <p className="font-secondary font-large">Earn more by staking. Ulitmately, the community will drive the project. 
+                                        <p className="font-secondary font-large">REKTR will be awarded to those who have been scammed. 
+                                        It will be built with community in mind. 
+                                        Earn more by staking. Ulitmately, the community will drive the project. 
                                         We will add and incentive new members to grow this movement.</p>
                                     </div>
                                     <div className="link-horizontal">

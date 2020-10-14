@@ -35,13 +35,13 @@ const Banner = ({router}) => {
                                             </div>
                                         </div>
                                     </div>
-                                    <h4 className="text-white">
+                                    {/* <h4 className="text-white">
                                         <i className="fa fa-map-marker m-r-10 text-white"></i>
                                         Worldwide
-                                    </h4>
+                                    </h4> */}
                                     <h5 className="header-sub-text text-white">
                                         <i className="fa fa-calendar m-r-10"></i>
-                                        16 October 2020
+                                        18 October 2020
                                     </h5>
                                     <div className="text-center link-horizontal">
                                         <a className=" btn btn-default back-white text-uppercase border-not" href="#">

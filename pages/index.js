@@ -41,7 +41,7 @@ const Resume = () => {
     return (
         <div>
             <Head>
-                <title>Resume Layout </title>
+                <title>Rekt Redemption </title>
             </Head>
             <RektHeader />
             {/* <Header className="dark" /> */}

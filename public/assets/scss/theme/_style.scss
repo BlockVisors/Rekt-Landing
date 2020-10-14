@@ -140,7 +140,7 @@ h1 {
       font-weight: 600;
     }
     &.bold-text2 {
-      font-size: calc(18px + (40 - 18) * ((100vw - 300px) / (1920 - 300)));
+      font-size: calc(18px + (40 - 38) * ((100vw - 300px) / (1920 - 300)));
 
       font-weight: 600;
 
@@ -16938,4 +16938,13 @@ footer {
 
 #top {
   margin-top: 200px;
+}
+
+#det-title {
+  margin-bottom: 18px;
+}
+
+#green-btn {
+  background-color: 00827E; 
+  color: #00827E;
 }

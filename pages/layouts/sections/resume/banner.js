@@ -41,7 +41,7 @@ const Banner = () => (
                                     <div className="link-horizontal">
                                         <ul>
                                             <li><a className="btn btn-default primary-btn back-white">know more</a></li>
-                                            <li><a className="btn btn-default primary-btn back-green">join sale</a></li>
+                                            <li><a className="btn btn-default primary-btn back-white">join sale</a></li>
                                             <li><a className="btn btn-default primary-btn back-white">telegram</a></li>
 
                                         </ul>
