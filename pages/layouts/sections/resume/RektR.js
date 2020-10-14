@@ -18,8 +18,8 @@ const RektR = () => (
                                         <h1><span className="bold-text">ERC-20</span><br /> Governance Token</h1>
                                     </div>
                                     <div className="header-sub-text">
-                                        <h4 className="font-secondary">The <span className="typed-resume"><Typed
-                                                strings={['Taste of Sweet Redemption']}
+                                        <h4 className="font-secondary">Join, Vote, & <span className="typed-resume"><Typed
+                                                strings={['Determine the future of the Platform']}
                                                 typeSpeed={80}
                                                 backSpeed={50}
                                                 showCursor={false}
@@ -42,8 +42,15 @@ const RektR = () => (
                                 </div>
                             </div>
                         </Col>
-                        <Col lg="5" md="6">
-                            <img alt="" className="img-fluid set-abs bottom-0 right-0" src="/assets/images/resume/h7.png" />
+                        <Col lg="5" md="6" className="offset-lg">
+                            <div id="photo-cont">
+                            <img 
+                            height="360px"
+                            width="320px"
+                            alt="" className="img-responsive center-block" 
+                            src="/assets/images/graphics/govNaked.png" />
+                            {/* <img alt="" className="img-fluid set-abs bottom-0 right-0" src="/assets/images/graphics/gov.png" /> */}
+                            </div>
                         </Col>
                     </Row>
                 </Container>

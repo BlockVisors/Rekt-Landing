@@ -87,23 +87,23 @@ module.exports = {
     ServiceData: [
         {
             img: '/assets/images/resume/service-exprience/1.png',
-            name: 'UI design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'REKTR TOKEN',
+            desc: 'Simple ERC-20 token with governance. The reward that fuels redemption'
         },
         {
             img: '/assets/images/resume/service-exprience/2.png',
-            name: 'UX design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'Staking + Rewards',
+            desc: 'Provide Liquidity or stake on platform to recieve more rewards.'
         },
         {
             img: '/assets/images/resume/service-exprience/5.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'Community + Governance',
+            desc: 'HODL REKTR and decide on future direction of the platform'
         },
         {
             img: '/assets/images/resume/service-exprience/6.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+            name: 'Redemption!',
+            desc: 'Free REKTR and on-going rewards for those scammed in the DeFi space.'
         },
         // {
         //     img: '/assets/images/resume/service-exprience/3.png',

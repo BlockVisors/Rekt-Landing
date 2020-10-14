@@ -59,7 +59,7 @@ const Resume = () => {
 
             <Section />
 
-            <CounterSection />
+            {/* <CounterSection /> */}
             <Team />
             <FAQ />
             <SubscribeSection />
