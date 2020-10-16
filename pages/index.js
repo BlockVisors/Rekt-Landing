@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 // import Custom Components
 
-import Header from './../containers/common/header'
+import Header from './../containers/common/MainHeader'
 import NavMain from './../containers/common/NavMain'
 
 import RektHeader from './../containers/common/RektHeader'
@@ -11,6 +11,7 @@ import Team from './layouts/sections/agency/expert'
 import Countdown from './layouts/sections/resume/Countdown'
 import CountDownSection from './layouts/sections/event/banner'
 import FAQ from './layouts/sections/modern-sass/faq'
+import SpeakerSection from './layouts/sections/event/speaker'
 
 
 import RektR from './layouts/sections/resume/RektR'
@@ -43,8 +44,8 @@ const Resume = () => {
             <Head>
                 <title>Rekt Redemption </title>
             </Head>
-            <RektHeader />
-            {/* <Header className="dark" /> */}
+            {/* <RektHeader /> */}
+            <Header className="dark" />
 
             <BannerSection />
             {/* <Countdown /> */}
@@ -60,7 +61,8 @@ const Resume = () => {
             <Section />
 
             {/* <CounterSection /> */}
-            <Team />
+            <SpeakerSection />
+            {/* <Team /> */}
             <FAQ />
             <SubscribeSection />
 

@@ -42,7 +42,7 @@ const Banner = () => (
                                         <ul>
                                             <li><a className="btn btn-default primary-btn back-white">know more</a></li>
                                             <li><a className="btn btn-default primary-btn back-white">join sale</a></li>
-                                            <li><a className="btn btn-default primary-btn back-white">telegram</a></li>
+                                            <li><a href="https://t.me/rektredemption" className="btn btn-default primary-btn back-white">telegram</a></li>
 
                                         </ul>
                                     </div>
