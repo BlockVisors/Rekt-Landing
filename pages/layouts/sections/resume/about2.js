@@ -97,7 +97,7 @@ const About2 = () => (
                                         <p className="font-secondary font-large">3000 REKTR - Rugged projects/Redemption Pool</p>
                                     </div>
                                     <div className="header-sub-text">
-                                        <p className="font-secondary font-large"><span>Founders Each will hold 2% of REKTR</span></p>
+                                        <p className="font-secondary font-large"><span>-- Founders Each will hold 2% of REKTR --</span></p>
                                         <p className="font-secondary font-large"><span>The rest will be given away to new team members</span>
                                         </p>
                                      </div>

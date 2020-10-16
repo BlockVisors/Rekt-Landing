@@ -88,12 +88,12 @@ module.exports = {
         {
             img: '/assets/images/resume/service-exprience/1.png',
             name: 'REKTR TOKEN',
-            desc: 'Simple ERC-20 token with governance. The reward that fuels redemption'
+            desc: 'Simple ERC-20 token with governance. The reward that fuels redemption process on platform.'
         },
         {
             img: '/assets/images/resume/service-exprience/2.png',
             name: 'Staking + Rewards',
-            desc: 'Provide Liquidity or stake on platform to recieve more rewards.'
+            desc: 'Provide Liquidity or stake on platform to recieve more rewards & give rewards to others.'
         },
         {
             img: '/assets/images/resume/service-exprience/5.png',

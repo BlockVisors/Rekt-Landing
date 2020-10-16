@@ -45,13 +45,22 @@ const Faq = () => {
     const DummyContent6 = () => (
         <div className="collapse show" id="collapseicon2" data-parent="#accordionoc">
             <div className="card-body">
+                When you stake.....Our smart contract will donate a small amount of REKTR to a current wallet that holds
+                the current Rekt Reward for the week. Additionally, a small amount will go to the original Pre-Sale contributors. 
+                <br />
+            </div>
+        </div>
+    );
+    const DummyContent7 = () => (
+        <div className="collapse show" id="collapseicon2" data-parent="#accordionoc">
+            <div className="card-body">
                 By going to the stake portal at: app.rektredemption.com 
                 <br />
                 Connect wallet and follow instructions
             </div>
         </div>
     );
-    const DummyContent7 = () => (
+    const DummyContent8 = () => (
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
                 We have a shortlist of projects that we are aware of and we will ask that you vote on Telegram
@@ -59,16 +68,16 @@ const Faq = () => {
             </div>
             </div>
     );
-    const DummyContent8 = () => (
+    const DummyContent9 = () => (
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
-                We will simply verify the holders by address and distribute. 
-                The process mmay be different for rekted projects tthat didn't distribute Token
+                We will verify the holders by address and distribute. 
+                The process mmay be different for rekted projects that didn't distribute Token
             </div>
             </div>
     );
 
-    const DummyContent9 = () => (
+    const DummyContent10 = () => (
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
                 Staking begins with a week after the sale launch...maybe sooner.
@@ -101,17 +110,20 @@ const Faq = () => {
                                     <AccordionItem className="card-header bg-primary" title="Are we getting scammed or rugged?">
                                         <DummyContent5 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="How do i stake REKTR?">
+                                    <AccordionItem className="card-header bg-primary" title="What happens when you stake REKTR?">
                                         <DummyContent6 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="What Rekt Projects do you honor?">
+                                    <AccordionItem className="card-header bg-primary" title="How do i stake REKTR?">
                                         <DummyContent7 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="How will you verify who has been Rekt?">
+                                    <AccordionItem className="card-header bg-primary" title="What Rekt Projects do you honor?">
                                         <DummyContent8 />
                                     </AccordionItem>
-                                    <AccordionItem className="card-header bg-primary" title="When does staking begin?">
+                                    <AccordionItem className="card-header bg-primary" title="How will you verify who has been Rekt?">
                                         <DummyContent9 />
+                                    </AccordionItem>
+                                    <AccordionItem className="card-header bg-primary" title="When does staking begin?">
+                                        <DummyContent10 />
                                     </AccordionItem>
                                 </Accordion>
                                 <h6 className="link">For more questions or to request projects? Reach out to us: <a>info@rektredemption.com</a></h6>
