@@ -15,6 +15,10 @@ const bags = [
     // require('../../public/assets/images/portfolio/6.jpg'),
     // require('../../public/assets/images/portfolio/7.jpg'),
     // require('../../public/assets/images/portfolio/8.png'),
+    require('../../public/assets/images/graphics/ZAO.png'),
+    require('../../public/assets/images/graphics/XDFI.png'),
+    require('../../public/assets/images/graphics/GUM.png'),
+    require('../../public/assets/images/graphics/Devil.png'),
 ]
 
 const watches = [
@@ -31,10 +35,14 @@ const shoes = [
 ]
 
 const AllImg = [
-    require('../../public/assets/images/portfolio/1.jpg'),
-    require('../../public/assets/images/portfolio/2.jpg'),
-    require('../../public/assets/images/portfolio/3.jpg'),
-    require('../../public/assets/images/portfolio/4.jpg'),
+    // require('../../public/assets/images/portfolio/1.jpg'),
+    // require('../../public/assets/images/portfolio/2.jpg'),
+    // require('../../public/assets/images/portfolio/3.jpg'),
+    // require('../../public/assets/images/portfolio/4.jpg'),
+    require('../../public/assets/images/graphics/ZAO.png'),
+    require('../../public/assets/images/graphics/XDFI.png'),
+    require('../../public/assets/images/graphics/GUM.png'),
+    require('../../public/assets/images/graphics/Devil.png'),
     // require('../../public/assets/images/portfolio/5.jpg'),
     // require('../../public/assets/images/portfolio/6.jpg'),
     // require('../../public/assets/images/portfolio/7.jpg'),
@@ -65,7 +73,7 @@ const Basic = ({ className, title, subTitle, fluid }) => {
                                             All
                                         </NavLink>
                                     </NavItem>
-                                    {/* <NavItem>
+                                    <NavItem>
                                         <NavLink className={activeTab == '2' ? 'active' : ''} onClick={() => setActiveTab('2')}>
                                             Defi
                                         </NavLink>
@@ -79,12 +87,12 @@ const Basic = ({ className, title, subTitle, fluid }) => {
                                         <NavLink className={activeTab == '4' ? 'active' : ''} onClick={() => setActiveTab('4')}>
                                             Memes
                                         </NavLink>
-                                    </NavItem> */}
-                                    {/* <NavItem>
+                                    </NavItem> 
+                                     <NavItem>
                                         <NavLink className={activeTab == '5' ? 'active' : ''} onClick={() => setActiveTab('5')}>
                                             Watch
                                         </NavLink>
-                                    </NavItem> */}
+                                    </NavItem>
                                 </Nav>
                             </Col>
                         </Row>

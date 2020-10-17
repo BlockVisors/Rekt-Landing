@@ -42,7 +42,7 @@ const About2 = () => (
                                     </div>
 
                                     <div className="header-sub-text">
-                                        <p className="font-secondary font-large">All Tokens distributed 1 hour after sale (Private Sale/Pre-Sale/Bonus)</p>
+                                        <p className="font-secondary font-large">All Tokens distributed 1 hour after sale</p>
                                         <p className="font-secondary font-large">Liquidity added to Uniswap 2 hours after sale</p>
                                         <p className="font-secondary font-large">First 60 Buyers get 50% bonus!</p>
 
@@ -50,6 +50,15 @@ const About2 = () => (
                                         <p className="font-secondary font-large"><strong>Sale Proceeds: <br></br>50% to liquidity/40% development/
                                             10% donation to Rekt project token holders</strong></p>
                                         </div> */}
+                                    </div>
+                                    <div className="header-sub-text">
+                                        <p className="font-secondary font-large"><strong>Sale Proceeds:</strong></p>
+                                        <p className="font-secondary font-large">40% UniSwap liquidity</p>
+                                        <p className="font-secondary font-large">50% Development & Growth</p>
+                                        <p className="font-secondary font-large">10% Donation to Rekt Projects</p>
+
+
+                                
                                     </div>
                                     {/* <div className="header-text">
                                         <h1><span>Sale Proceeds</span><br /></h1>
@@ -98,9 +107,13 @@ const About2 = () => (
                                     </div>
                                     <div className="header-sub-text">
                                         <p className="font-secondary font-large"><span>-- Founders Each will hold 2% of REKTR --</span></p>
-                                        <p className="font-secondary font-large"><span>The rest will be given away to new team members</span>
-                                        </p>
+                                        <p className="font-secondary font-large"><span>The rest will be given away to new team members.</span></p>
+                                        <p className="font-secondary font-large"><span>--No more token minting --</span></p>
+                                        <p className="font-secondary font-large"><span>Redemption Pool will be split amongst 8-10 projects--Pro rata</span></p>
+                                           
                                      </div>
+                                        
+                                 
                                     <div className="link-horizontal">
                                         <ul>
                                             <li><a className="btn btn-default primary-btn back-white">etherscan</a></li>

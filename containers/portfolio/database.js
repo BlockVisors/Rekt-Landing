@@ -61,42 +61,55 @@ module.exports = {
     ],
 
     AllImgData: [
+
         {
-            img: '/assets/images/portfolio/1.jpg'
+            img: '/assets/images/graphics/ZAO.png'
         },
         {
-            img: '/assets/images/portfolio/2.jpg'
+            img: '/assets/images/graphics/Devil.png'
         },
         {
-            img: '/assets/images/portfolio/3.jpg'
+            img: '/assets/images/portfolio/GUM.png'
         },
         {
-            img: '/assets/images/portfolio/4.jpg'
+            img: '/assets/images/portfolio/XDFI.png'
         },
-        {
-            img: '/assets/images/portfolio/5.jpg'
-        },
-        {
-            img: '/assets/images/portfolio/6.jpg'
-        },
-        {
-            img: '/assets/images/portfolio/7.jpg'
-        },
-        {
-            img: '/assets/images/portfolio/8.png'
-        },
-        {
-            img: '/assets/images/portfolio/9.jpg'
-        },
-        {
-            img: '/assets/images/portfolio/10.jpg'
-        },
-        {
-            img: '/assets/images/portfolio/11.jpg'
-        },
-        {
-            img: '/assets/images/portfolio/12.png'
-        },
+        // {
+        //     img: '/assets/images/portfolio/1.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/2.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/3.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/4.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/5.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/6.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/7.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/8.png'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/9.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/10.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/11.jpg'
+        // },
+        // {
+        //     img: '/assets/images/portfolio/12.png'
+        // },
     ],
     PortfolioDetail1Data: [
         {
