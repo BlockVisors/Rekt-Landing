@@ -69,10 +69,10 @@ module.exports = {
             img: '/assets/images/graphics/Devil.png'
         },
         {
-            img: '/assets/images/portfolio/GUM.png'
+            img: '/assets/images/graphics/GUM.png'
         },
         {
-            img: '/assets/images/portfolio/XDFI.png'
+            img: '/assets/images/graphics/XDFI.png'
         },
         // {
         //     img: '/assets/images/portfolio/1.jpg'
