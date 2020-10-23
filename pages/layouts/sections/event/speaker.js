@@ -60,7 +60,7 @@ const Speaker = () => (
                 <Col md="3" sm="6"  className="speker-container" id="speaker-box">
                     <div className="text-center">
                         <div className="team-img">
-                            <img alt="" className="img-fluid" src="/assets/images/event/l3-4.png" />
+                            <img alt="" className="img-fluid" src="/assets/images/graphics/member.png" />
                             <div className="overlay"></div>
                             <div className="social">
                                 <ul>
@@ -80,7 +80,7 @@ const Speaker = () => (
                 <Col md="3" sm="6"  className="speker-container" id="speaker-box">
                     <div className="text-center">
                         <div className="team-img">
-                            <img alt="" className="img-fluid" src="/assets/images/event/l3-4.png" />
+                            <img alt="" className="img-fluid" src="/assets/images/graphics/member.png" />
                             <div className="overlay"></div>
                             <div className="social">
                                 <ul>
@@ -100,7 +100,7 @@ const Speaker = () => (
                 <Col md="3" sm="6"  className="speker-container" id="speaker-box">
                     <div className="text-center">
                         <div className="team-img">
-                            <img alt="" className="img-fluid" src="/assets/images/event/l3-4.png" />
+                            <img alt="" className="img-fluid" src="/assets/images/graphics/member.png" />
                             <div className="overlay"></div>
                             <div className="social">
                                 <ul>
@@ -120,7 +120,7 @@ const Speaker = () => (
                 <Col md="3" sm="6"  className="speker-container" id="speaker-box">
                     <div className="text-center">
                         <div className="team-img">
-                            <img alt="" className="img-fluid" src="/assets/images/event/l3-4.png" />
+                            <img alt="" className="img-fluid" src="/assets/images/graphics/member.png" />
                             <div className="overlay"></div>
                             <div className="social">
                                 <ul>

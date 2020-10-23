@@ -66,16 +66,16 @@ module.exports = {
             img: '/assets/images/graphics/ZAO.png'
         },
         {
-            img: '/assets/images/graphics/Devil.png'
+            img: '/assets/images/graphics/Devil2.png'
         },
         {
             img: '/assets/images/graphics/GUM.png'
         },
         {
-            img: '/assets/images/graphics/XDFI.png'
+            img: '/assets/images/graphics/avocado.png'
         },
         // {
-        //     img: '/assets/images/portfolio/1.jpg'
+        //     img: '/assets/images/graphics/1.jpg'
         // },
         // {
         //     img: '/assets/images/portfolio/2.jpg'

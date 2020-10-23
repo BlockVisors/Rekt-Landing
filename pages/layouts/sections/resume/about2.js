@@ -109,7 +109,7 @@ const About2 = () => (
                                         <p className="font-secondary font-large"><span>-- Founders Each will hold 2% of REKTR --</span></p>
                                         <p className="font-secondary font-large"><span>The rest will be given away to new team members.</span></p>
                                         <p className="font-secondary font-large"><span>--No more token minting --</span></p>
-                                        <p className="font-secondary font-large"><span>Redemption Pool will be split amongst 8-10 projects--Pro rata</span></p>
+                                        <p className="font-secondary font-large"><span>Redemption Pool will be split amongst 8-10 projects</span></p>
                                            
                                      </div>
                                         
