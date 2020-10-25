@@ -14,8 +14,8 @@ const About = () => (
                             <div>
                                 <h2 className="title-text" id="det-title">The Details</h2>
                             </div>
-                            <h1><span className="bold-text2">Sale Start Date: October 26, 2020 16:00 UTC</span></h1>
-                         <h1><span className="bold-text2">Sale End Date: October 27, 2020 16:00 UTC</span></h1>
+                            <h1><span className="bold-text2">Sale Start Date: October 31, 2020 16:00 UTC</span></h1>
+                         <h1><span className="bold-text2">Sale End Date: Novembeer, 2020 16:00 UTC</span></h1>
 
 
                         </div>
