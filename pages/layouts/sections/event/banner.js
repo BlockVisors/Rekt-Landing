@@ -41,7 +41,7 @@ const Banner = ({router}) => {
                                     </h4> */}
                                     <h5 className="header-sub-text text-white">
                                         <i className="fa fa-calendar m-r-10"></i>
-                                        26 October 2020
+                                        31 October 2020
                                     </h5>
                                     <div className="text-center link-horizontal">
                                         <a className=" btn btn-default back-white text-uppercase border-not" href="#">
