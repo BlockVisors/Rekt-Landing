@@ -31,7 +31,7 @@ const Faq = () => {
     const DummyContent4 = () => (
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
-                The Pre-Sale will be held on October 18, 2020 1600 UTC time
+                The Pre-Sale will be held on October 31, 2020 1600 UTC time
             </div>
         </div>
     );
@@ -72,7 +72,7 @@ const Faq = () => {
         <div className="collapse show" id="collapseicon3" data-parent="#accordionoc">
             <div className="card-body">
                 We will verify the holders by address and distribute. 
-                The process mmay be different for rekted projects that didn't distribute Token
+                The process may be different for rekted projects that didn't distribute Token
             </div>
             </div>
     );
