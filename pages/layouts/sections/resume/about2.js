@@ -15,7 +15,7 @@ const About2 = () => (
                                     </div>
                                     <div className="header-text">
                                         <h1><span className="bold-text">Presale-Info</span><br /></h1>
-                                        <h1><span className="bold-text2">Sale Lasts 24 or Hardcap Reached</span></h1>
+                                        <h1><span className="bold-text2">Sale Lasts 4 days or Hardcap</span></h1>
 
             
                                     </div>
