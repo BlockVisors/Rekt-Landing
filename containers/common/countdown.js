@@ -68,7 +68,7 @@ const CountdownComponent = (props) => {
     var year = d.getFullYear();
     var month = d.getMonth();
     var day = d.getDate();
-    var coundown = new Date(year, month, day +7.5).getTime();
+    var coundown = new Date(year, month, day +2).getTime();
 
     return (
         <Fragment>
