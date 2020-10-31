@@ -10,6 +10,8 @@ import RektHeader from './../containers/common/RektHeader'
 import Team from './layouts/sections/agency/expert'
 import Countdown from './layouts/sections/resume/Countdown'
 import CountDownSection from './layouts/sections/event/banner'
+import LiveSection from './layouts/sections/event/banner-live'
+
 import FAQ from './layouts/sections/modern-sass/faq'
 import SpeakerSection from './layouts/sections/event/speaker'
 
@@ -49,7 +51,8 @@ const Resume = () => {
 
             <BannerSection />
             {/* <Countdown /> */}
-            <CountDownSection />
+            {/* <CountDownSection /> */}
+            <LiveSection />
 
             <AboutSection />
             <About2 />
