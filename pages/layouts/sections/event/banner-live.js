@@ -49,7 +49,6 @@ const Banner = ({router}) => {
                                     </h5>
                                     <div>
                                     <h5 className="header-sub-text text-white">
-                                        <i className="fa fa-calendar m-r-10"></i>
                                         Sale Address: 0x9008F04Ab5B84db34fb9Ec3d8B103964D2d171E7
                                     </h5>
                                     </div>
