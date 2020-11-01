@@ -33,7 +33,8 @@ const About2 = () => (
                                         <p className="font-secondary font-large">All Unsold tokens burned</p>
                                         <p className="font-secondary font-large">Presale Price: 10 REKTR = 1 ETH</p>
                                         <p className="font-secondary font-large">Uniswap Listing Price: 5 REKTR = 1 ETH</p>
-                                        <p className="font-secondary font-large">Hardcap 800 ETH -- Min: .2 ETH  Max 5 ETH</p>
+                                        <p className="font-secondary font-large">Softcap: 100 ETH Hardcap 800 ETH</p>
+                                        <p className="font-secondary font-large">Investment -- Min: .2 ETH  Max 5 ETH</p>
 
                                         {/* <div>
                                         <p className="font-secondary font-large"><strong>Sale Proceeds: <br></br>50% to liquidity/40% development/
