@@ -45,7 +45,7 @@ const Banner = ({router}) => {
                                     </h5>
                                     <h5 className="header-sub-text text-white">
                                         <i className="fa fa-calendar m-r-10"></i>
-                                        Sale Ends: 1 November 2020
+                                        Sale Ends: 3 November 2020
                                     </h5>
                                     <div>
                                     <h5 className="header-sub-text text-white">
