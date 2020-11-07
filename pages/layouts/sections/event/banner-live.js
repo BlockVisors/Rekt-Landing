@@ -19,7 +19,7 @@ const Banner = ({router}) => {
                             <div className="center-text">
                                 <div className="text-center w-100">
                                     <div className="h1-margin">
-                                        <h1 id="sale-title">Rekt Redemption Pre-Sale Now Live <span className="typed">
+                                        <h1 id="sale-title">Rekt Redemption Airdrop <span className="typed">
                                             <Typed
                                                 strings={['']}
                                                 typeSpeed={20}
@@ -31,31 +31,41 @@ const Banner = ({router}) => {
                                     <div className="wedding-time">
                                         <div>
                                             <div className="event-countdown">
-                                                <h3>50% bonus for early buyers</h3>
+                                                <h3>100% bonus for liquidity providers on UniSwap</h3>
                                             </div>
+
+                                            <h6 className="header-sub-text text-white">
+                                        Note: Bonus REKTR will be distributed immediately after verifying liquidity lock
+                                    </h6>
+
+                                    <h6 className="header-sub-text text-white">
+                                        Investor must lock for one week via Unicrypt to get bonus REKTR
+                                    </h6>
                                         </div>
                                     </div>
                                     {/* <h4 className="text-white">
                                         <i className="fa fa-map-marker m-r-10 text-white"></i>
                                         Worldwide
                                     </h4> */}
+                                    {/* <h5 className="header-sub-text text-white">
+                                        Sign up Now Below
+                                    </h5> */}
                                     <h5 className="header-sub-text text-white">
-                                        <i className="fa fa-calendar m-r-10"></i>
-                                        Sale Begins: 31 October 2020
-                                    </h5>
-                                    <h5 className="header-sub-text text-white">
-                                        <i className="fa fa-calendar m-r-10"></i>
-                                        Sale Ends: 3 November 2020
+                                        8000 REKTR will be given away-- First 533 participants will receive 15 REKTR
                                     </h5>
                                     <div>
+                                    {/* <h5 className="header-sub-text text-white">
+                                        <i className="fa fa-calendar m-r-10"></i>
+                                        Airdrop will close 9 October 2020 or when number of participants are maxed out
+                                    </h5> */}
                                     <h5 className="header-sub-text text-white">
-                                        Sale Address: 0x9008F04Ab5B84db34fb9Ec3d8B103964D2d171E7
+                                        REKTR Token Address: 0x....
                                     </h5>
                                     </div>
                                     
                                     <div className="text-center link-horizontal">
-                                        <a className=" btn btn-default back-white text-uppercase border-not" href="#">
-                                            Go to Sale
+                                        <a className=" btn btn-default back-white text-uppercase border-not" href="https://forms.gle/mfKW4FXiJGqTbY2w9">
+                                            Signup for Airdrop
                                         </a>
                                     </div>
                                 </div>

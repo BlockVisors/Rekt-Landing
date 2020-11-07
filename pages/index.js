@@ -52,8 +52,8 @@ const Resume = () => {
             <BannerSection />
             {/* <Countdown /> */}
             {/* <CountDownSection /> */}
-            {/* <LiveSection />
-
+            <LiveSection />
+{/*
             <AboutSection />
             <About2 /> */}
           
