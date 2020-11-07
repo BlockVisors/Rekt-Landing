@@ -58,8 +58,12 @@ const Banner = ({router}) => {
                                         <i className="fa fa-calendar m-r-10"></i>
                                         Airdrop will close 9 October 2020 or when number of participants are maxed out
                                     </h5> */}
-                                    <h5 className="header-sub-text text-white">
+                                    {/* <h5 className="header-sub-text text-white">
                                         REKTR Token Address: 0x....
+                                    </h5> */}
+                                    <h5 className="header-sub-text text-white">
+                                        <i className="fa fa-calendar m-r-10"></i>
+                                        Airdrop Date will be 10 November 2020 - Uniswap Listing 12 November 2020
                                     </h5>
                                     </div>
                                     
